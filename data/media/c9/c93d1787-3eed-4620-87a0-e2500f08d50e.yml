@@ -5,6 +5,6 @@ width: 2048
 height: 3072
 ratio: 0.6666666666666666
 format: portrait
-url: https://reakt.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM5M2QxNzg3LTNlZWQtNDYyMC04N2EwLWUyNTAwZjA4ZDUwZSIsInB1ciI6ImJsb2JfaWQifX0=--17f910a6af0f35abcc73c1e42e56dc9fd17d89e7/8698848.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/v7yb7stlcws85juddva3q5oxhv35
+url: http://reakt.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM5M2QxNzg3LTNlZWQtNDYyMC04N2EwLWUyNTAwZjA4ZDUwZSIsInB1ciI6ImJsb2JfaWQifX0=--ba9f778dd0006ba8a977e310ede6579b4945a5ff/8698848.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/v7yb7stlcws85juddva3q5oxhv35
 

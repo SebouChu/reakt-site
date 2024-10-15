@@ -5,6 +5,6 @@ width: 1904
 height: 2158
 ratio: 0.8822984244670992
 format: portrait
-url: https://reakt.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQxNjA1NWY0LTZjZjMtNDcxOC1iNzNlLTZmMTUwNmEyNTA1YSIsInB1ciI6ImJsb2JfaWQifX0=--2b1e3d563fe95f3d0116f9223e6808ab8ceb2009/MS_scenario_Neige.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/36cq402z6t3spkl409hzd1g3d3ix
+url: http://reakt.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjQxNjA1NWY0LTZjZjMtNDcxOC1iNzNlLTZmMTUwNmEyNTA1YSIsInB1ciI6ImJsb2JfaWQifX0=--4f8f8fa5b75ce8388c25dd2ffdf42d84b811b688/MS_scenario_Neige.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/36cq402z6t3spkl409hzd1g3d3ix
 

@@ -5,6 +5,6 @@ width: 314
 height: 234
 ratio: 1.3418803418803418
 format: landscape
-url: https://reakt.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjExYTc3MmU5LTNmNDEtNDE2NS04YTAyLTBhMmUyZTk3YzM4ZiIsInB1ciI6ImJsb2JfaWQifX0=--ee688da0f4b6cd3133b921102b34f48eae40acf1/Archiclimat.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/fn70ylkt1o8kl817xugba4ocablb
+url: http://reakt.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjExYTc3MmU5LTNmNDEtNDE2NS04YTAyLTBhMmUyZTk3YzM4ZiIsInB1ciI6ImJsb2JfaWQifX0=--69817585192ad7c03695b8f6534ca8659c9a285f/Archiclimat.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/fn70ylkt1o8kl817xugba4ocablb
 

@@ -5,6 +5,6 @@ width: 2920
 height: 1690
 ratio: 1.727810650887574
 format: landscape
-url: https://reakt.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMxNGUxOTMwLTM0YTMtNDcwOC04NTlmLTVmNDgxZDExNzNhZCIsInB1ciI6ImJsb2JfaWQifX0=--1708cefcb71d1ad3720b1392c3487cb2fbe50463/MS_fig_04_temp_sm_F.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/yltsfsatrpi883rr83cvqeibpyr8
+url: http://reakt.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjMxNGUxOTMwLTM0YTMtNDcwOC04NTlmLTVmNDgxZDExNzNhZCIsInB1ciI6ImJsb2JfaWQifX0=--f3803a6d5f3f7abb572786d2ec763f341b1900f4/MS_fig_04_temp_sm_F.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/yltsfsatrpi883rr83cvqeibpyr8
 

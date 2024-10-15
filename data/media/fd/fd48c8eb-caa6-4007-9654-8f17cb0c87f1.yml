@@ -5,6 +5,6 @@ width: 2362
 height: 446
 ratio: 5.2959641255605385
 format: landscape
-url: https://reakt.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZkNDhjOGViLWNhYTYtNDAwNy05NjU0LThmMTdjYjBjODdmMSIsInB1ciI6ImJsb2JfaWQifX0=--7a598685936d0ed673760dfd4d8870fe17c025c3/Logo_TK_noir.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/cn0t3t507nsjvgwsvjg0kd70kl0j
+url: http://reakt.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImZkNDhjOGViLWNhYTYtNDAwNy05NjU0LThmMTdjYjBjODdmMSIsInB1ciI6ImJsb2JfaWQifX0=--673fdd0368554f70c40815e151999cffc2c112e7/Logo_TK_noir.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/cn0t3t507nsjvgwsvjg0kd70kl0j
 

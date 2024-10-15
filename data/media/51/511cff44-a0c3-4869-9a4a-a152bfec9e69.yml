@@ -2,6 +2,6 @@
 name: RE_vCard_MFA.vcf
 size: 383
 format: square
-url: https://reakt.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUxMWNmZjQ0LWEwYzMtNDg2OS05YTRhLWExNTJiZmVjOWU2OSIsInB1ciI6ImJsb2JfaWQifX0=--ca29fe5b03825c055fe79f3473f4c09eee446d2a/RE_vCard_MFA.vcf
-direct_url: https://osuny.s3.fr-par.scw.cloud/99upa16hopdehe4eap0wpg02345d
+url: http://reakt.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjUxMWNmZjQ0LWEwYzMtNDg2OS05YTRhLWExNTJiZmVjOWU2OSIsInB1ciI6ImJsb2JfaWQifX0=--21cebaa59cd7face0bf6279d09a06f4884a2507e/RE_vCard_MFA.vcf
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/99upa16hopdehe4eap0wpg02345d
 

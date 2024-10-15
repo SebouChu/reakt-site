@@ -5,6 +5,6 @@ width: 1904
 height: 1164
 ratio: 1.6357388316151202
 format: landscape
-url: https://reakt.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM0OTNhYzhjLTNiNmItNGRmMC1hMDliLWMyNzdmMTFjMjdjMyIsInB1ciI6ImJsb2JfaWQifX0=--b824e997bfe7a7cc1fef26cbfd78c40cc4422634/MeteoSuisse_fig_08_ChangementsClimatiques_resume.jpg
-direct_url: https://osuny.s3.fr-par.scw.cloud/tpci2p7u9kg9byo2nznmkztb5wgt
+url: http://reakt.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImM0OTNhYzhjLTNiNmItNGRmMC1hMDliLWMyNzdmMTFjMjdjMyIsInB1ciI6ImJsb2JfaWQifX0=--aa871f240aba207fa69c48b2ab503114dd483343/MeteoSuisse_fig_08_ChangementsClimatiques_resume.jpg
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/tpci2p7u9kg9byo2nznmkztb5wgt
 

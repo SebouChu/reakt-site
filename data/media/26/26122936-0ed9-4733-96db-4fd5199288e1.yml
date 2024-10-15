@@ -2,6 +2,6 @@
 name: RE_FicheAMU.pdf
 size: 36602
 format: square
-url: https://reakt.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI2MTIyOTM2LTBlZDktNDczMy05NmRiLTRmZDUxOTkyODhlMSIsInB1ciI6ImJsb2JfaWQifX0=--d24691fc1bfa03f87356387a5fc32a5612a0b00d/RE_FicheAMU.pdf
-direct_url: https://osuny.s3.fr-par.scw.cloud/j2bmnzpdt5hhq9jv4vlx6l3hnqw3
+url: http://reakt.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6IjI2MTIyOTM2LTBlZDktNDczMy05NmRiLTRmZDUxOTkyODhlMSIsInB1ciI6ImJsb2JfaWQifX0=--a28ab2953bb6bda0a075c0cbd13dc37471ca07d8/RE_FicheAMU.pdf
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/j2bmnzpdt5hhq9jv4vlx6l3hnqw3
 

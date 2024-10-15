@@ -5,6 +5,6 @@ width: 521
 height: 318
 ratio: 1.6383647798742138
 format: landscape
-url: https://reakt.osuny.org/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI5YzRhNDAzLWE3MmQtNGE0YS04NDQ0LTNmNGY3ZWU3MTQwNyIsInB1ciI6ImJsb2JfaWQifX0=--a416f1e043d0ae71a5c87fb078dcce7a042c7327/Logo-eco21-2024-couleur.png
-direct_url: https://osuny.s3.fr-par.scw.cloud/iofd3ojubdj3ffmcqfv5de3dfapu
+url: http://reakt.osuny:3000/media/eyJfcmFpbHMiOnsiZGF0YSI6ImI5YzRhNDAzLWE3MmQtNGE0YS04NDQ0LTNmNGY3ZWU3MTQwNyIsInB1ciI6ImJsb2JfaWQifX0=--c8eba02cca7f1fe97a5cc9cfa882340559588cd5/Logo-eco21-2024-couleur.png
+direct_url: https://osuny-dev.s3.fr-par.scw.cloud/iofd3ojubdj3ffmcqfv5de3dfapu
 
